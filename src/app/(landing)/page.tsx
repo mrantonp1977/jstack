@@ -44,7 +44,7 @@ const Page = () => {
                 href="/sign-up"
                 className="realative z-10 h-14 w-full text-base shadow-lg transition-shadow duration-300 hover:shadow-xl"
               >
-                Start For Free today
+                Start For Free Today
               </ShinyButton>
             </div>
           </div>
